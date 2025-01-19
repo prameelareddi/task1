@@ -1,0 +1,7 @@
+PyPDF2
+pytesseract
+pdf2image
+spacy
+sentence-transformers
+pinecone-client
+openai
